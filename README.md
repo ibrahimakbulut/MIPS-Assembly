@@ -6,4 +6,4 @@
 -The report must be no more than 2 pages. (describe the algorithm of the code, pseudocodes are useful) 
 -You can get extra points from extra things provided that the report.
 -Example Input    : "There are 3 apples, 12 oranges in the kitchen. 7 eggs also. TL 2.45 remaining money. "
--Expected Output: "There are three apples, 12 oranges in the kitchen. Seven eggs also.  TL 2.45 remaining money. "
+-Expected Output: "There are three apples, 12 oranges in the kitchen. Seven eggs also.  TL 2.45 remaining money. ".
